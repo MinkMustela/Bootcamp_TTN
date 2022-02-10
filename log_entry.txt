@@ -1,2 +1,3 @@
  hv made chenges in file1
-some change
+some chang
+e
